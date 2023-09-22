@@ -17,12 +17,10 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
    git clone https://github.com/mathr81/discord-js-template.git
    ```
 
-   Remplacez `VotreNomUtilisateur` par votre nom d'utilisateur GitHub.
-
 2. Accédez au répertoire du projet :
 
    ```shell
-   cd discord-js-template
+   cd discord-js-template/template
    ```
 
 3. Installez les dépendances en exécutant la commande suivante :
@@ -42,7 +40,7 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 Pour lancer votre bot, utilisez la commande suivante :
 
 ```shell
-node bot.js
+node main.js
 ```
 
 ## Contribution
