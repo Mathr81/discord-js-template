@@ -1,4 +1,3 @@
-```markdown
 # Discord.js Template
 
 Ce dépôt est un modèle de base pour créer des bots Discord en utilisant la bibliothèque [Discord.js](https://discord.js.org/).
