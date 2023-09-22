@@ -14,7 +14,7 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 1. Clonez ce dépôt sur votre machine locale en utilisant la commande suivante :
 
    ```shell
-   git clone https://github.com/VotreNomUtilisateur/discord-js-template.git
+   git clone https://github.com/mathr81/discord-js-template.git
    ```
 
    Remplacez `VotreNomUtilisateur` par votre nom d'utilisateur GitHub.
