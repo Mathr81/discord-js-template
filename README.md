@@ -52,10 +52,3 @@ Si vous souhaitez contribuer à ce projet, veuillez consulter le fichier [CONTRI
 ## Licence
 
 Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
-
----
-
-N'hésitez pas à personnaliser davantage ce fichier `README.md` en fonction des besoins spécifiques de votre projet. Bon développement de votre bot Discord !
-```
-
-Assurez-vous de personnaliser les sections du fichier `README.md` avec des informations spécifiques à votre projet, comme le nom de l'auteur, la licence, les instructions d'installation, et les détails sur votre bot Discord.js. Enregistrez ce contenu dans un fichier appelé `README.md` à la racine de votre dépôt GitHub `discord-js-template`.
